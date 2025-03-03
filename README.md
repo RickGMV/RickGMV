@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RickGMV
-- 👀 I’m interested in PETUHON 
-- 🌱 I’m currently learning PETUHON(Python), maybe go.... Maybe c#... Maybe golang.... Maybe Java$$🤑$$
+- 👀 I’m interested in Python 
+- 🌱 I’m currently learning Python, maybe go.... Maybe c#... Maybe golang.... Maybe Java$$🤑$$
 - 💞️ I’m looking to collaborate with something else...
 - 📫 How to reach me, tg @rickgmv
 
